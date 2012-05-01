@@ -3,7 +3,7 @@
 - [01-#FIXME]
 - [02-#FIXME]
 - [03-itme](http://github.com/19bal/cv-asset/tree/master/03-itme)
-- [04-sarılma](https://github.com/19bal/cv-code/tree/master/04-sar%C4%B1lma)
+- [04-sarılma](http://github.com/19bal/cv-code/tree/master/04-sar%C4%B1lma)
 - [05-#FIXME]
 - [06-#FIXME]
 
