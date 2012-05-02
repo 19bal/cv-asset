@@ -3,7 +3,7 @@
 - Hasan Ayvaz | http://hasayvaz.me
 - Elçin Duygu Karaca
 - Özkan Yeter
-- Melig Güzelkeleş
+- Melih Güzelkeleş
 - Zişan Kutanis
 
 ### AÇIKLAMA
