@@ -22,3 +22,7 @@ betik:
 	bg_remove: #TODO
 
 	motion_detection: #TODO
+
+### YOUTUBE
+
+Uygulamanın gerçeklemesini anlatan video'yu izlemek için [tıklayınız](http://www.youtube.com/watch?v=spZRE8vLLt8)
