@@ -1,6 +1,6 @@
 ### Bil416 Bilgisayarlı Görü Laboratuvarı Videoları
 
-- [01-#FIXME]
+- [01-el_sikisma](http://github.com/19bal/cv-asset/tree/master/01-el_sikisma)
 - [02-yumruk_atma](http://github.com/19bal/cv-asset/tree/master/02-yumruk_atma)
 - [03-itme](http://github.com/19bal/cv-asset/tree/master/03-itme)
 - [04-sarılma](https://github.com/19bal/cv-asset/tree/master/04-sarilma)
