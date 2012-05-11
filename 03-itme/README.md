@@ -11,4 +11,7 @@ Açıklamalar için [tıklayınız](http://github.com/19bal/cv-code/tree/master/
 
 ### YOUTUBE
 
-Uygulamanın gerçeklemesini anlatan video'yu izlemek için [tıklayınız](http://www.youtube.com/watch?v=spZRE8vLLt8)
+Uygulamanın gerçeklemesini anlatan 
+
+- **Sessiz** video'yu izlemek için [tıklayınız](http://www.youtube.com/watch?v=spZRE8vLLt8)
+- **Sesli** video'yu izlemek için [tıklayınız](http://youtu.be/mu_sFnyK5Ao)
