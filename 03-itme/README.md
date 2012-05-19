@@ -5,6 +5,11 @@
 - Merve Ceylan
 - Yunus Ateş
 
+### AÇIKLAMA
+
+- arkaplan video: 001-002.mpg (kişilerin bulunmadığı videolar)
+- önplan video: 003-010.mpg (kişilerin bulunduğu videolar)
+
 ### KOD
 
 Uygulamanın kodları için [tıklayınız](http://github.com/19bal/cv-code/tree/master/03-itme)
