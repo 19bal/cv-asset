@@ -11,7 +11,7 @@
 Uygulama açıklamaları için [Tıklayınız](http://github.com/19bal/cv-code/tree/master/01-el_sikisma)
 ### BİLDİRİ
 
-Uygulamanın bildirisine ulaşmak için [Tıklayınız.]([Tıklayınız.]://docs.google.com/a/bil.omu.edu.tr/file/d/0B6inE3EkDgNsZkV2aHlpMGllNFk/edit)
+Uygulamanın bildirisine ulaşmak için [Tıklayınız.](http://docs.google.com/a/bil.omu.edu.tr/file/d/0B6inE3EkDgNsZkV2aHlpMGllNFk/edit)
 
 ### YOUTUBE
 
